@@ -1,5 +1,5 @@
-import 'package:AllinNews/src/models/news_item.dart';
-import 'package:AllinNews/src/resources/repository.dart';
+import 'package:all_in_news/src/models/news_item.dart';
+import 'package:all_in_news/src/resources/repository.dart';
 import 'package:rxdart/rxdart.dart';
 
 class NewsBloc {

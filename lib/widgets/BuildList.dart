@@ -1,5 +1,5 @@
-import 'package:AllinNews/src/models/news_item.dart';
-import 'package:AllinNews/widgets/WebView.dart';
+import 'package:all_in_news/src/models/news_item.dart';
+import 'package:all_in_news/widgets/WebView.dart';
 import 'package:flutter/material.dart';
 
 class BuildList extends StatelessWidget {

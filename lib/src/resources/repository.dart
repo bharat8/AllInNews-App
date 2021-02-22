@@ -1,5 +1,5 @@
-import 'package:AllinNews/src/models/news_item.dart';
-import 'package:AllinNews/src/resources/news_api_provider.dart';
+import 'package:all_in_news/src/models/news_item.dart';
+import 'package:all_in_news/src/resources/news_api_provider.dart';
 
 class Repository {
   final newsApiProvider = NewsApiProvider();

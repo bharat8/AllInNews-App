@@ -1,6 +1,6 @@
-import 'package:AllinNews/widgets/BuildList.dart';
-import 'package:AllinNews/src/blocs/NewsBloc.dart';
-import 'package:AllinNews/src/models/news_item.dart';
+import 'package:all_in_news/widgets/BuildList.dart';
+import 'package:all_in_news/src/blocs/NewsBloc.dart';
+import 'package:all_in_news/src/models/news_item.dart';
 import 'package:flutter/material.dart';
 
 class SearchBar extends SearchDelegate {

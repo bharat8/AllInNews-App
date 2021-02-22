@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:AllinNews/src/models/news_item.dart';
+import 'package:all_in_news/src/models/news_item.dart';
 import 'package:http/http.dart' show Client;
 
 class NewsApiProvider {

@@ -1,7 +1,7 @@
-import 'package:AllinNews/widgets/BuildCards.dart';
-import 'package:AllinNews/widgets/BuildList.dart';
-import 'package:AllinNews/helpers/Category.dart';
-import 'package:AllinNews/helpers/SearchNews.dart';
+import 'package:all_in_news/widgets/BuildCards.dart';
+import 'package:all_in_news/widgets/BuildList.dart';
+import 'package:all_in_news/helpers/Category.dart';
+import 'package:all_in_news/helpers/SearchNews.dart';
 import '../../widgets/Drawer.dart';
 import 'package:flutter/material.dart';
 import '../models/news_item.dart';

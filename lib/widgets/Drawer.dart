@@ -1,4 +1,4 @@
-import 'package:AllinNews/src/screens/news_list.dart';
+import 'package:all_in_news/src/screens/news_list.dart';
 import 'package:flutter/material.dart';
 
 class DrawerSlider extends StatelessWidget {
